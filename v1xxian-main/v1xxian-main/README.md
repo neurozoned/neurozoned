@@ -1,4 +1,4 @@
-## `welcome to my page :3,, enjoy some blinkies n stamps while ur here <3`
+
 ![image description](https://i.imgur.com/Kh0xLsP.gif) ![image description](https://i.imgur.com/NZ0fno5.png) ![image description](https://i.imgur.com/7K2LHkG.png) ![image description](https://files.catbox.moe/kfc2rk.png) ![image description](https://y2k.neocities.org/stamps2/lisa_frank_stars_stamp_by_vtge-dcgi8ad.png) ![image description](https://i.imgur.com/cs67Stx.png) ![image description](https://64.media.tumblr.com/733abe941d3bfae7ca5b3ef03c7098c7/78b4a15a5bb1c11f-46/s100x200/8c500ea89dab8825ed6ab65ddc778a75ccfcdff3.pnj) ![image description](https://github.com/v1xxian/v1xxian/assets/145954018/77164c07-d73c-4f70-b837-b4301bb3a727)
 
 
