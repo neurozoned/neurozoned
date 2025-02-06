@@ -23,6 +23,6 @@ THANK YOU FOR THE STAMPS BEAUTIFUL RUSS! I'LL SEE YOU IN THE ZONE MY FRIEND!!! A
 <p align="center">
  <img width="250" src="https://horrorgifs.neocities.org/gifs/Creature/Creature%20(3).gif">
 </p>
-<h4 align="center"><samp> THIS RAT IS EVIL AND WANTS TO KILL YOU! SCROLL BACK UP QUICK! </samp></h4>
+<h4 align="center"><samp> THIS RAT IS EVIL AND WANTS TO KILL YOU! SCROLL BACK UP QUICK, BEFORE IT IS TOO LATE! </samp></h4>
 <br>
-<img width="925" src="https://horrorgifs.neocities.org/lines/Line%20(121).gif">
+<img width="925" src="https://horrorgifs.neocities.org/lines/5.gif">
