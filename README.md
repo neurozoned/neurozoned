@@ -26,3 +26,4 @@ THANK YOU FOR THE STAMPS BEAUTIFUL RUSS! I'LL SEE YOU IN THE ZONE MY FRIEND!!! A
 <p align="center">
  <img width="250" src="https://horrorgifs.neocities.org/gifs/Creature/Creature%20(3).gif">
 </p>
+<h4 align="center"><samp> THIS RAT IS EVIL AND WANTS TO KILL YOU! SCROLL BACK UP QUICK! </samp></h4>
