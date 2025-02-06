@@ -6,7 +6,6 @@
 <h4 align="center"><samp> RAID AREA 51! THEY CAN'T STOP ALL OF US! </samp></h4>
 <p align="center">
 <h4 align="center"><samp>  </samp></h4>
-<br>
 <p align="center">
   <img width="145" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FzZ2Nkd3JzamdocHJrNDV6OTYxbGs5cW96dWVqZ29iOXV3cG42ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RimdwEfLFE3V5omsgr/giphy.gif"> <img width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI4MThpdnc0dzV4NGdodjJzem9lY2Q0ZzVtaGpzNWM2bmg1a3lidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DL5jH64slP2hvreCOR/giphy.gif"> <img width="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQyOXc0ZHg4MmF3dTkwend6OHEzZGxsNWU0czQ4NDQ0Y3p4c3pwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ArAVeJUHZwZLf5JlMj/giphy.gif"> <img width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN2OHZkdTE3Mm9iYmdxazJ6bmthOWIzNDIybWZpdWY0cmc4NnQ1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jGagVlUJp4J8Hj0SlH/giphy.gif">
 </p>
