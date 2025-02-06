@@ -1,6 +1,6 @@
-  <img width="925" src="https://horrorgifs.neocities.org/lines/Line%20(121).gif">
+<img width="925" src="https://horrorgifs.neocities.org/lines/5.gif">
 <p align="center">
- <img width="50" src="https://horrorgifs.neocities.org/gifs/Fire/Candle/Candle%20(24).gif"><img width="250" src="https://horrorgifs.neocities.org/gifs/Bat/Bat%20(20).gif"><img width="50" src="https://horrorgifs.neocities.org/gifs/Fire/Candle/Candle%20(24).gif">
+ <img width="50" src="https://horrorgifs.neocities.org/gifs/Fire/Candle/Candle%20(24).gif"><img width="250" height="70" src="https://horrorgifs.neocities.org/gifs/Bat/Bat%20(20).gif"><img width="50" src="https://horrorgifs.neocities.org/gifs/Fire/Candle/Candle%20(24).gif">
 </p>
 
 <h4 align="center"><samp> RAID AREA 51! THEY CAN'T STOP ALL OF US! </samp></h4>
@@ -24,3 +24,5 @@ THANK YOU FOR THE STAMPS BEAUTIFUL RUSS! I'LL SEE YOU IN THE ZONE MY FRIEND!!! A
  <img width="250" src="https://horrorgifs.neocities.org/gifs/Creature/Creature%20(3).gif">
 </p>
 <h4 align="center"><samp> THIS RAT IS EVIL AND WANTS TO KILL YOU! SCROLL BACK UP QUICK! </samp></h4>
+<br>
+<img width="925" src="https://horrorgifs.neocities.org/lines/Line%20(121).gif">
