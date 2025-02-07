@@ -25,4 +25,4 @@ THANK YOU FOR THE STAMPS BEAUTIFUL RUSS! I'LL SEE YOU IN THE ZONE MY FRIEND!!! A
 </p>
 <h4 align="center"><samp> THIS RAT IS EVIL AND WANTS TO KILL YOU! SCROLL BACK UP QUICK, BEFORE IT IS TOO LATE! </samp></h4>
 <br>
-<img width="925" src="https://horrorgifs.neocities.org/lines/5.gif">
+<img width="925" src="https://horrorgifs.neocities.org/lines/5.gifv">
