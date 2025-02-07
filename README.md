@@ -10,7 +10,7 @@
   <img width="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdmcTZwZXp2bDQ3cTd0b2h6aHN1Mjd3eGk3djhjejlsazRtOW1leCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Oatxwtf5zTSeWDms4Y/giphy.gif"> <img width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHppankzNDhveGVxZXBxMmNsMnVvMTYzOXJtcHk5YjFoOWl6eWZrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pMW6KaoRhXFmbQAlNQ/giphy.gif"> <img width="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVpOHJiYnRvcm9hano5bGxudDF4dTVkZTh3ZHdqZTE2dm5oaGRqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBQW6Q5f4opQ3ohPvd/giphy.gif"> <img width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM1aXRyeWtlZXJ2dG03ZWIwN2ZzN3ptNzVkY2k5OHZsYXd2ZWdrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3RnZYBictfqnTnjaPr/giphy.gif">
 </p>
 <h4 align="center"><samp> CODY / JACKET, W2I I'M USUALLY AFK OR OFFTAB! DNI TCC PROSHIP BIGOT ECT ECT EVERYONE ELSE FEEL FREE!
-THANK YOU FOR THE STAMPS BEAUTIFUL RUSS! I'LL SEE YOU IN THE ZONE MY FRIEND!!! ALSO THANK YOU TO TOKI CHRIS ANAKIN FORD BEN AND ALL OTHERS FOR BEING AWESOME!
+THANK YOU FOR THE ABOVE STAMPS BEAUTIFUL RUSS! I'LL SEE YOU IN THE ZONE MY FRIEND!!! ALSO THANK YOU TO TOKI CHRIS ANAKIN FORD BEN AND ALL OTHERS FOR BEING AWESOME!
 </br>
  CHECK OUT BLINKIES AND SIGN ATA TO JOIN MY ARMY!!!!</samp></h4>
 <p align="center">
