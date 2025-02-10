@@ -1,4 +1,4 @@
-<img width="925" src="https://horrorgifs.neocities.org/lines/5.gif">
+<img width="925" src="https://pixelsafari.neocities.org/dividers/greenskulls.gif">
 <p align="center">
  <img width="50" src="https://horrorgifs.neocities.org/gifs/Fire/Candle/Candle%20(24).gif"><img width="250" height="70" src="https://horrorgifs.neocities.org/gifs/Bat/Bat%20(20).gif"><img width="50" src="https://horrorgifs.neocities.org/gifs/Fire/Candle/Candle%20(24).gif">
 </p>
@@ -26,4 +26,4 @@ THANK YOU FOR THE ABOVE STAMPS BEAUTIFUL RUSS! I'LL SEE YOU IN THE ZONE MY FRIEN
 </p>
 <h4 align="center"><samp> THIS RAT IS EVIL AND WANTS TO KILL YOU! SCROLL BACK UP QUICK, BEFORE IT IS TOO LATE! </samp></h4>
 <br>
-<img width="925" src="https://horrorgifs.neocities.org/lines/5.gif">
+<img width="925" src="https://pixelsafari.neocities.org/dividers/greenskulls.gif">
