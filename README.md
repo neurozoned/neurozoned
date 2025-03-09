@@ -29,3 +29,5 @@ THANK YOU FOR THE ABOVE STAMPS BEAUTIFUL RUSS I'LL SEE YOU IN THE ZONE MY FRIEND
 <br>
 <p align="center">
 <img width="500" src="https://confettiguts.gay/graphics/graphicsimg/BXpVekE.png">
+  <br>
+<a href="https://info.flagcounter.com/L7Ji"><img src="https://s05.flagcounter.com/mini/L7Ji/bg_000000/txt_6A9629/border_004008/flags_0/" alt="Flag Counter" border="0"></a>
