@@ -39,6 +39,12 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 
 <br>
 
+ <p align="center">
+ ${\color{#998d3c}[}$ ${\color{#998d3c}⤷}$ <a href="https://github.com/NightVisionGoggles">RUSS</a> ${\color{#998d3c}⤷}$ <a href="https://github.com/dethglok2000">JOEL</a> ${\color{#998d3c}⤷}$ <a href="https://github.com/dogsoldiers">CHRIS</a> ${\color{#998d3c}]}$
+ </p>
+
+ <br>
+ 
 <p align="center">
 <img width="550" src="https://64.media.tumblr.com/280d47ddee4a9e4ff5afea04a8aef2a7/8ff434638d8d5ff6-4e/s400x600/69233c2f8f2cb40d7f6786e9c9b89db8a04ed909.gifv"
  </p>
