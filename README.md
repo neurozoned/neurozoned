@@ -31,7 +31,11 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
  <strong>${\color{#998d3c}☢}‎$˗ˏˋ More info on listography!ˎˊ˗
 </p>
 
-<br>  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=247xx4wdsyzixq37xrn809zor&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=998d3c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=247xx4wdsyzixq37xrn809zor&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=998d3c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
+  
+  </div>
 
 <br>
 
