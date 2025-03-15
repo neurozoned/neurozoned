@@ -24,10 +24,10 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
  </h1>
 
 <p align="center">
-   <strong>${\color{#998d3c}☢}‎$ Offtab usually -- W2I!</strong>
+   <strong>${\color{#998d3c}☢}‎$ ˗ˏˋ Offtab usually -- W2I! ˎˊ˗</strong>
  </p>
  <p align="center">
- <strong>${\color{#998d3c}☢}‎$ More info on listography!
+ <strong>${\color{#998d3c}☢}‎$˗ˏˋ More info on listography!ˎˊ˗
 </p>
 
 <br>
