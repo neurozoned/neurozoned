@@ -1,4 +1,6 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTViN2hvY2Z6ZHp5dG83YXdqb2xpbnB0M3F3emE0OGc4Yml1dDF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHltmUmAPnkiJ0hTz9/giphy.gif" height="400">
+<p align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTViN2hvY2Z6ZHp5dG83YXdqb2xpbnB0M3F3emE0OGc4Yml1dDF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHltmUmAPnkiJ0hTz9/giphy.gif" height="300">
+</p>
 
 <p align="center">
 ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
