@@ -1,3 +1,4 @@
+<center>
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTViN2hvY2Z6ZHp5dG83YXdqb2xpbnB0M3F3emE0OGc4Yml1dDF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHltmUmAPnkiJ0hTz9/giphy.gif" height="300">
 </p>
@@ -29,6 +30,8 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
  <p align="center">
  <strong>${\color{#998d3c}☢}‎$˗ˏˋ More info on listography!ˎˊ˗
 </p>
+
+<br>  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=247xx4wdsyzixq37xrn809zor&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=998d3c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
@@ -105,4 +108,5 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zrd3FjZGZqYW0wM2UyeG81bWJrZ3hkM2VxdXNxbXk1ZG9zamNjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wuC4aqq5mgjal3rbuq/giphy.gif"></a> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxrdGNmOHp6MjJjM2FrMmg1eDByb2ZhbjEwMGV6ODB5MXJyYjNmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2H8iX9Lf3m5hmdzTNT/giphy.gif"> </a> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN5dDR0YjlwZ2hxa2NxZnhpZzhmY2xmbDd6bzRsZzRpdmJtNDUxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ckKQEwNhiK7gol66k/giphy.gif"> </a> 
       <br>
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThtMHh2MWJ0bDQyOHBxN3pidnd0bzd2MG9tNHEyMDFkcWoxbmU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzKM0iicadFHGHLDam/giphy.gif"> </a> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwybmc2bDg0ZXVmdmRiY2tvZjJrc25hanJlc2J0Z3NjbWxoMzJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1BuIP9KWSxsOLa8Fc/giphy.gif"> </a>
-      
+
+  <center>
