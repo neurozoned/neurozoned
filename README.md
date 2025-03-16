@@ -119,5 +119,16 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
       <br>
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThtMHh2MWJ0bDQyOHBxN3pidnd0bzd2MG9tNHEyMDFkcWoxbmU4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzKM0iicadFHGHLDam/giphy.gif"> </a> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWwybmc2bDg0ZXVmdmRiY2tvZjJrc25hanJlc2J0Z3NjbWxoMzJ2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1BuIP9KWSxsOLa8Fc/giphy.gif"> </a> <img src="https://64.media.tumblr.com/9c48e0c3a4408a3caf6fd572760307f4/7e983b911b6bf8de-51/s250x400/1f0e40c41f8d18680ec05f27d8093a4e9039010e.gifv">
       <br>
-
-  <center>
+<img src="https://transbro.neocities.org/Graphics/Blinkies/005-portal.gif"> </a> <img src="https://transbro.neocities.org/Graphics/Blinkies/0167-saw.gif"> </a> <img src="https://plasticdino.neocities.org/blinkie/shrek.gif"> </a>
+<br>
+<img src="https://blinkie-net.neocities.org/blinkies/Blinkies2/broken.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/Blinkies2/prettyhatemachean.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/7/bats.gif"> </a>
+<br>
+<img src="https://blinkie-net.neocities.org/blinkies/8/Pumpkinpatch.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/8/Slimerancher-rad.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/8/Slimerancher-hunter.gif"> </a>
+<br>
+<img src="https://blinkie-net.neocities.org/blinkies/9/fishin.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/10/flesh.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/10/believe.gif"> </a>
+<br>
+<img src="https://blinkie-net.neocities.org/blinkies/10/brains.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/10/irradiated.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/10/skateborder.gif"> </a>
+<br>
+<img src="https://blinkie-net.neocities.org/blinkies/10/yeehaw.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/11/frankenstein.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/11/planet.gif"> </a>
+  
+                                  
