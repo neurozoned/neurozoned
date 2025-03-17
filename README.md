@@ -145,3 +145,12 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 
 </div>
 </details>
+
+<div align="center">
+<details>
+<summary><b><strong>STAMPS</strong></b></summary>
+
+  Don't got no stamps yet... I'm broke.. Stamp broke...
+
+</div>
+</details>
