@@ -49,6 +49,10 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <img width="550" src="https://64.media.tumblr.com/280d47ddee4a9e4ff5afea04a8aef2a7/8ff434638d8d5ff6-4e/s400x600/69233c2f8f2cb40d7f6786e9c9b89db8a04ed909.gifv"
  </p>
 
+<div align="center">
+  <details open>
+<summary><b><strong>BLINKIES</strong></b></summary>
+  
 <p align="center">
  <img src="https://64.media.tumblr.com/730a12071eeb7bb7744d64cb55c4a289/7683caff4be9ee79-78/s250x400/fbf2e3449021f5620278a64626ab8c36861e453c.gifv"> <img src="https://64.media.tumblr.com/cd187abcced77c1ef497dba90e1b49c5/7683caff4be9ee79-66/s250x400/ce736444129c475b3f2d2183eeeeda07960953a2.gif"> <img src="https://64.media.tumblr.com/02aafb8de5336865a1c6627c78eb3795/4da3e75336d50353-3f/s250x400/0931249f8a827c65ddab5736d5f2ede93ac04c58.gifv">
  <br>
@@ -136,4 +140,5 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <img src="https://66.media.tumblr.com/ce59f2504a2c24dfab3e3a063104fe38/tumblr_ptf2pt4sxa1wclo4ko3_250.gif"> </a> <img src="https://66.media.tumblr.com/bbae932ff118b3923b612e6cb6d49b4a/tumblr_prxu7gwRzn1ynjcq0o3_250.gif"> </a> <img src="https://66.media.tumblr.com/bab1cef4161302e2ab08f4174b7c046f/tumblr_pccdda0yX21wclo4ko1_250.gif"> </a>
 <br>
 
-                                  
+</div>
+</details>
