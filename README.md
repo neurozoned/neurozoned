@@ -29,6 +29,9 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
  </p>
  <p align="center">
  <strong>${\color{#998d3c}☢}‎$˗ˏˋ More info on listography!ˎˊ˗
+ </p>
+   <p align="center">
+      <strong>${\color{#998d3c}☢}‎$˗ˏˋ Graphics Below : )ˎˊ˗
 </p>
 
 <div align="center">
