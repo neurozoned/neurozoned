@@ -132,5 +132,8 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <img src="https://blinkie-net.neocities.org/blinkies/10/yeehaw.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/11/frankenstein.gif"> </a> <img src="https://blinkie-net.neocities.org/blinkies/11/planet.gif"> </a>
 <br>
 <img src="https://adriansblinkiecollection.neocities.org/a13.gif"> </a> <img src="https://adriansblinkiecollection.neocities.org/z3.gif"> </a> <img src="https://adriansblinkiecollection.neocities.org/c41.gif"> </a>
-  
+<br>
+<img src="https://66.media.tumblr.com/ce59f2504a2c24dfab3e3a063104fe38/tumblr_ptf2pt4sxa1wclo4ko3_250.gif"> </a> <img src="https://66.media.tumblr.com/bbae932ff118b3923b612e6cb6d49b4a/tumblr_prxu7gwRzn1ynjcq0o3_250.gif"> </a> <img src="https://66.media.tumblr.com/bab1cef4161302e2ab08f4174b7c046f/tumblr_pccdda0yX21wclo4ko1_250.gif"> </a>
+<br>
+
                                   
