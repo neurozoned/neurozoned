@@ -150,7 +150,19 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <details>
 <summary><b><strong>STAMPS</strong></b></summary>
 
-  Don't got no stamps yet... I'm broke.. Stamp broke...
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZxcG84ZmhyaGswemY1dnp5dHZ4aTJrdmJueXQyejQ3Z2FpbXI0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9XuXo3oDtAta6wVaB7/giphy.gif"> </a> <img src="https://media.giphy.com/media/wfpa3kY8s1RZ3K7wUy/giphy.gif"> </a> <img src="https://media.giphy.com/media/WI5740ImDX36FYGLxf/giphy.gif"> </a> <img src="https://media.giphy.com/media/AupTnl0AsqbdisEHpQ/giphy.gif"> </a>
+<br>
+<img src="https://media.giphy.com/media/JgYNmdBmgp19OOtmqX/giphy.gif"> </a> <img src="https://media.giphy.com/media/22Sybqnij3rHVieSmH/giphy.gif"> </a> <img src="https://media.giphy.com/media/ZO5bLkbZi1Gvk9vwOe/giphy.gif"> </a> <img src="https://media.giphy.com/media/bAF88N0b2bL6ToiC9I/giphy.gif"> </a>
+<br>
+<img src="https://media.giphy.com/media/Q3IgeBv2rfx2dJGD0U/giphy.gif"> </a> <img src="https://media.giphy.com/media/yqJykcRE1D4v3YWrNw/giphy.gif"> </a> <img src="https://media.giphy.com/media/iCnrg6GeESXWcvoDhP/giphy.gif"> </a> <img src="https://media.giphy.com/media/T2Y3LUPps1bZtyradJ/giphy.gif"> </a>
+<br>
+<img src="https://media.giphy.com/media/DLP51rUhmFh9Xg6yMp/giphy.gif"> </a> <img src="https://media.giphy.com/media/OQ08iidfJ5VWqugUoq/giphy.gif"> </a> <img src="https://media.giphy.com/media/b7aNxxPCdtwuwslqNj/giphy.gif"> </a> <img src="https://media.giphy.com/media/98jpexkg3prkGOBLOu/giphy.gif"> </a>
+<br>
+<img src="https://media.giphy.com/media/0RJtV4gRCezI5dCkdJ/giphy.gif"> </a> <img src="https://media.giphy.com/media/ZvD0EX6RLVDXZabReX/giphy.gif"> </a> <img src="https://media.giphy.com/media/6ul707BZMvyplMRnVr/giphy.gif"> </a> <img src="https://media.giphy.com/media/90XNBxjC5ZAm1MYJbT/giphy.gif"> </a>
+<br>
+<img src="https://media.giphy.com/media/qQBd1Z2JQk8J9i7TPO/giphy.gif"> </a> <img src="https://media.giphy.com/media/F8UVx3WVxnq0n7SK86/giphy.gif"> </a> <img src="https://media.giphy.com/media/zXFdV2kx1dFOfcetvs/giphy.gif"> </a> <img src="https://media.giphy.com/media/2iQxv7Bb3iEtWbdXJr/giphy.gif"> </a>
+<br>
+
 
 </div>
 </details>
