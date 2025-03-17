@@ -162,7 +162,15 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <br>
 <img src="https://media.giphy.com/media/qQBd1Z2JQk8J9i7TPO/giphy.gif"> </a> <img src="https://media.giphy.com/media/F8UVx3WVxnq0n7SK86/giphy.gif"> </a> <img src="https://media.giphy.com/media/zXFdV2kx1dFOfcetvs/giphy.gif"> </a> <img src="https://media.giphy.com/media/2iQxv7Bb3iEtWbdXJr/giphy.gif"> </a>
 <br>
-
+<img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/h7gs.jpg"> </a> <img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/h1gsdgf6.png"> </a> <img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/ftfdytyfu3.gif"> </a> <img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/f19gsgdf.png"> </a>
+<br>
+<img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/e58.gif"> </a> <img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/d70.jpg"> </a> <img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/d81.png"> </a> <img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/d84.gif"> </a>
+<br>
+<img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/61.gif"> </a> <img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/daad85s-1f428acc-e12e-4cf7-aa07-b1c16b09626a(1).gif"> </a> <img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/d204uur-9bf467b5-506e-407d-8228-37c3520b3cc2.gif"> </a> <img src="https://controlcoreangel.neocities.org/images/graphics/web/stamps/cass.gif"> </a>
+<br>
+<img src="https://sansmaeda.neocities.org/images/graphics/stamps/dx8ne4-798ee581-f368-4538-9045-76f558857754.gif"> </a> <img src="https://sansmaeda.neocities.org/images/graphics/stamps/love_fallout_by_robin_huzell_d31f1dg-fullview.png"> </a> <img src="https://sansmaeda.neocities.org/images/graphics/stamps/ilovethylacines.png"> </a> <img src="https://fearofmusic.neocities.org/images/graphics/stamps/j11.gif"> </a>
+<br>
+<img src="https://fearofmusic.neocities.org/images/graphics/stamps/STAMP%20(3208).gif"> </a> <img src="https://fearofmusic.neocities.org/images/graphics/stamps/STAMP%20(5179).png"> </a> <img src="https://fearofmusic.neocities.org/images/graphics/stamps/f16.gif"> </a> <img src="https://fearofmusic.neocities.org/images/graphics/stamps/STAMP%20(2070).gif"> </a>
 
 </div>
 </details>
