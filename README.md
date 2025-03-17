@@ -142,6 +142,15 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <br>
 <img src="https://66.media.tumblr.com/ce59f2504a2c24dfab3e3a063104fe38/tumblr_ptf2pt4sxa1wclo4ko3_250.gif"> </a> <img src="https://66.media.tumblr.com/bbae932ff118b3923b612e6cb6d49b4a/tumblr_prxu7gwRzn1ynjcq0o3_250.gif"> </a> <img src="https://66.media.tumblr.com/bab1cef4161302e2ab08f4174b7c046f/tumblr_pccdda0yX21wclo4ko1_250.gif"> </a>
 <br>
+<img src="https://nightvisiongoggles.neocities.org/RDR.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/violent-videogames.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/pulse.gif"> </a>
+<br>
+<img src="https://nightvisiongoggles.neocities.org/NIN.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/americanwerewolfinlondon.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/autumn.gif"> </a>
+<br>
+<img src="https://nightvisiongoggles.neocities.org/lovehalloween.gif"> </a> <img height="20" width="150" src="https://nightvisiongoggles.neocities.org/tkk.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/night.gif"> </a>
+<br>
+<img width="150" height="20" src="https://nightvisiongoggles.neocities.org/RE7.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/radioactivity.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/biohazard.gif"> </a>
+<br>
+<img src="https://nightvisiongoggles.neocities.org/anomaly.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/ethan.gif"> </a> <img width="150" height="20" src="https://nightvisiongoggles.neocities.org/umbrellacorp.gif"> </a>
 
 </div>
 </details>
@@ -171,6 +180,12 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <img src="https://sansmaeda.neocities.org/images/graphics/stamps/dx8ne4-798ee581-f368-4538-9045-76f558857754.gif"> </a> <img src="https://sansmaeda.neocities.org/images/graphics/stamps/love_fallout_by_robin_huzell_d31f1dg-fullview.png"> </a> <img src="https://sansmaeda.neocities.org/images/graphics/stamps/ilovethylacines.png"> </a> <img src="https://fearofmusic.neocities.org/images/graphics/stamps/j11.gif"> </a>
 <br>
 <img src="https://fearofmusic.neocities.org/images/graphics/stamps/STAMP%20(3208).gif"> </a> <img src="https://fearofmusic.neocities.org/images/graphics/stamps/STAMP%20(5179).png"> </a> <img src="https://fearofmusic.neocities.org/images/graphics/stamps/f16.gif"> </a> <img src="https://fearofmusic.neocities.org/images/graphics/stamps/STAMP%20(2070).gif"> </a>
+<br>
+<img src="https://nightvisiongoggles.neocities.org/tcm.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/aawil.png"> </a> <img src="https://nightvisiongoggles.neocities.org/evildead.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/l4d.png"> </a>
+<br>
+<img src="https://nightvisiongoggles.neocities.org/thething.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/danger.png"> </a> <img width="99" height="56" src="https://nightvisiongoggles.neocities.org/chemlabhq.png"> </a> <img src="https://nightvisiongoggles.neocities.org/fightclub.gif"> </a>
+<br>
+<img src="https://nightvisiongoggles.neocities.org/fantasticmrfox.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/caution.png"> </a> <img src="https://nightvisiongoggles.neocities.org/maeandgregg.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/dbd.png"> </a>
 
 </div>
 </details>
