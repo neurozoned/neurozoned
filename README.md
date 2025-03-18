@@ -151,6 +151,8 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <img width="150" height="20" src="https://nightvisiongoggles.neocities.org/RE7.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/radioactivity.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/biohazard.gif"> </a>
 <br>
 <img src="https://nightvisiongoggles.neocities.org/anomaly.gif"> </a> <img src="https://nightvisiongoggles.neocities.org/ethan.gif"> </a> <img width="150" height="20" src="https://nightvisiongoggles.neocities.org/umbrellacorp.gif"> </a>
+<br>
+<img width="150" height="20" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd2MDhnbDNncWh5ejNzajlmYmhxY3l6ZnRzOXVuenVkaG13YWQ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KnHQK9Bnxse7JqZrTh/giphy.gif"> </a>
 
 </div>
 </details>
