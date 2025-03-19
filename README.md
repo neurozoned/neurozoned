@@ -31,7 +31,7 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
  <strong>${\color{#998d3c}☢}‎$˗ˏˋ More info on listography!ˎˊ˗
  </p>
    <p align="center">
-      <strong>${\color{#998d3c}☢}‎$˗ˏˋ Graphics Below... : )ˎˊ˗
+      <strong>${\color{#998d3c}☢}‎$˗ˏˋ Graphics Below... <img src="https://sansmaeda.neocities.org/images/graphics/favicons/9617d43f.gif"> </a>ˎˊ˗
 </p>
 
 <div align="center">
