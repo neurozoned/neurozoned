@@ -11,7 +11,8 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <img width="550" src="https://64.media.tumblr.com/280d47ddee4a9e4ff5afea04a8aef2a7/8ff434638d8d5ff6-4e/s400x600/69233c2f8f2cb40d7f6786e9c9b89db8a04ed909.gifv"
  </p>
 
-<div align=center>˗ˏˋ<a href='https://www.counter12.com'><img src='https://www.counter12.com/img-9996B7Wx6CDa5696-33.gif' border='0' alt='counter'></a>ˎˊ˗</div>
+<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/zc.php?d=5&id=7338&s=39' border='0' alt='Free Website Hit Counter'></a><br /><small><a href="https://www.free-website-hit-counter.com"></a></small></div>
+
 <br>
 
  <p align="center">
