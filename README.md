@@ -12,7 +12,8 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
  </p>
 
  <p align="center">
-˗ˏˋ <a href="https://info.flagcounter.com/L7Ji"><img src="https://s05.flagcounter.com/mini/L7Ji/bg_000000/txt_6A9629/border_004008/flags_0/" alt="Flag Counter" border="0"></a>  ˎˊ˗
+<div align=center>˗ˏˋ 
+  <a href='https://www.counter12.com'><img src='https://www.counter12.com/img-x7aZ37WAdBybBy7A-68.gif' border='0' alt='counter'></a>ˎˊ˗
  </p>
 
  <p align="center">
