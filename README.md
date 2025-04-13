@@ -21,7 +21,7 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 
  <h1 align="center">
   ${\color{#998d3c}⚛ CODY / JACKET}$ <br>
-  ${\color{#998d3c}⚛ HE / IT}$ <br>
+  ${\color{#998d3c}⚛ HE / IT - 18}$ <br>
  </h1>
 
 <p align="center">
