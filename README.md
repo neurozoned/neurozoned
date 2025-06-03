@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
+ ☣ Get out of here, Stalker! ☣
 </p>
   
 <p align="center">
@@ -15,22 +15,22 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <br>
 
  <p align="center">
- ${\color{#998d3c}[}$ <a href="https://listography.com/gimp">LISTOGRAPHY</a> ${\color{#998d3c}☢}$ <a href="https://neurozone.atabook.org/">ATABOOK</a> ${\color{#998d3c}]}$
+ [ <a href="https://listography.com/gimp">LISTOGRAPHY</a> ☢ <a href="https://neurozone.atabook.org/">ATABOOK</a> ]
  </p>
 
  <h1 align="center">
-  ${\color{#998d3c}⚛ CODY / JACKET}$ <br>
-  ${\color{#998d3c}⚛ HE / IT - 18}$ <br>
+  ⚛ CODY / JACKET}$ <br>
+  ⚛ HE / IT - 18}$ <br>
  </h1>
 
 <p align="center">
-   <strong>${\color{#998d3c}☢}‎$ ˗ˏˋ Offtab usually -- W2I... ˎˊ˗</strong>
+   <strong>☢ ˗ˏˋ Offtab usually -- W2I... ˎˊ˗</strong>
  </p>
  <p align="center">
- <strong>${\color{#998d3c}☢}‎$˗ˏˋ More info on listography!ˎˊ˗
+ <strong>☢˗ˏˋ More info on listography!ˎˊ˗
  </p>
    <p align="center">
-      <strong>${\color{#998d3c}☢}‎$˗ˏˋ Graphics Below... <img src="https://sansmaeda.neocities.org/images/graphics/favicons/9617d43f.gif"> </a>ˎˊ˗
+      <strong>☢˗ˏˋ Graphics Below... <img src="https://sansmaeda.neocities.org/images/graphics/favicons/9617d43f.gif"> </a>ˎˊ˗
 </p>
 
 <div align="center">
@@ -42,7 +42,7 @@ ${\color{#998d3c} ☣ Get out of here, Stalker! ☣}‎$
 <br>
 
  <p align="center">
- ${\color{#998d3c}[}$ ${\color{#998d3c}⤷}$ <a href="https://github.com/NightVisionGoggles">RUSS</a> ${\color{#998d3c}⤷}$ <a href="https://github.com/dethglok2000">JOEL</a> ${\color{#998d3c}⤷}$ <a href="https://github.com/dogsoldiers">CHRIS</a> ${\color{#998d3c}]}$
+ ⤷ <a href="https://github.com/NightVisionGoggles">RUSS</a> ⤷ <a href="https://github.com/dethglok2000">JOEL</a> ⤷ <a href="https://github.com/dogsoldiers">CHRIS</a> 
  </p>
 
  <br>
