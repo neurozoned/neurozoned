@@ -19,7 +19,7 @@
  </p>
 
  <h1 align="center">
-  ⚛  ![Cody/Jacket]()
+  ⚛  ![Image](https://github.com/user-attachments/assets/0e0767b9-3609-4866-8e85-a088b0ab3cc5)
 )
  <br>
   ⚛ HE / IT - 18}$ <br>
@@ -34,6 +34,7 @@
    <p align="center">
       <strong>☢˗ˏˋ Graphics Below... <img src="https://sansmaeda.neocities.org/images/graphics/favicons/9617d43f.gif"> </a>ˎˊ˗
 </p>
+![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/a92bd677-ff87-456b-9a98-8415520e0897)
 
 <div align="center">
   
