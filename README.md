@@ -1,3 +1,4 @@
+page under construction everything broke : ( will be restored to former glory, maybe
 <center>
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTViN2hvY2Z6ZHp5dG83YXdqb2xpbnB0M3F3emE0OGc4Yml1dDF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHltmUmAPnkiJ0hTz9/giphy.gif" height="250">
@@ -20,7 +21,7 @@
 
  <h1 align="center">
   <br>
-  ⚛  <img src='./src/d04c6c22be987d3f457fec6fa53e936c.png'>
+  ⚛  <img src=''>
  <br>
   ⚛ HE / IT - 18}$ <br>
  </h1>
