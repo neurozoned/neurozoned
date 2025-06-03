@@ -19,8 +19,7 @@
  </p>
 
  <h1 align="center">
-  ⚛  ![Image](https://github.com/user-attachments/assets/0e0767b9-3609-4866-8e85-a088b0ab3cc5)
-)
+  ⚛  <img src='./src/d04c6c22be987d3f457fec6fa53e936c.png'>
  <br>
   ⚛ HE / IT - 18}$ <br>
  </h1>
