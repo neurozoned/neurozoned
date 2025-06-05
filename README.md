@@ -46,8 +46,7 @@
 <br>
 
  <p align="center">
- ⤷ <img src="https://64.media.tumblr.com/c79b9fc4e6d98587e166013a094cd9d7/2e7fe2baf89313e9-cd/s75x75_c1/502ad4e2c5c8737bd0f37915834e69592dfbbb60.gifv" width="16" height="16"> <a href="https://github.com![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/15367217-efe9-4fe0-bcab-e63a9e23cd24)
-/NightVisionGoggles">RUSS</a> ⤷ <img src="https://64.media.tumblr.com/8c9abd2899a58ed9f1d99622ebeed574/e35483bc14507f1e-02/s75x75_c1/3dd848a9cbc37fb63b0cc96e40b92f1dd54be693.gifv" width="16" height="16"> <a href="https://github.com/dethglok2000">JOEL</a> ⤷ <img src="https://64.media.tumblr.com/cbd57dabec491c1de71126d3455b995b/c997dedf5f2f81b0-22/s75x75_c1/e113dc636784a67af83f84ec3118b59c0efb5b25.gifv" width="16" height="16"> <a href="https://github.com/dogsoldiers">CHRIS</a> 
+ ⤷ <img src="https://64.media.tumblr.com/c79b9fc4e6d98587e166013a094cd9d7/2e7fe2baf89313e9-cd/s75x75_c1/502ad4e2c5c8737bd0f37915834e69592dfbbb60.gifv" width="16" height="16"> <a href="https://github.com![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/15367217-efe9-4fe0-bcab-e63a9e23cd24)/NightVisionGoggles">RUSS</a> ⤷ <img src="https://64.media.tumblr.com/8c9abd2899a58ed9f1d99622ebeed574/e35483bc14507f1e-02/s75x75_c1/3dd848a9cbc37fb63b0cc96e40b92f1dd54be693.gifv" width="16" height="16"> <a href="https://github.com/dethglok2000">JOEL</a> ⤷ <img src="https://64.media.tumblr.com/cbd57dabec491c1de71126d3455b995b/c997dedf5f2f81b0-22/s75x75_c1/e113dc636784a67af83f84ec3118b59c0efb5b25.gifv" width="16" height="16"> <a href="https://github.com/dogsoldiers">CHRIS</a> 
  </p>
 
  <br>
