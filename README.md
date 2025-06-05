@@ -1,12 +1,13 @@
-page under construction everything broke : ( will be restored to former glory, maybe
 <center>
 <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTViN2hvY2Z6ZHp5dG83YXdqb2xpbnB0M3F3emE0OGc4Yml1dDF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHltmUmAPnkiJ0hTz9/giphy.gif" height="250">
 </p>
 
-<p align="center">
- ☣ Get out of here, Stalker! ☣
-</p>
+<div align="center">
+ 
+<img src="https://64.media.tumblr.com/30dcb8590864f1f8b5ee82b2a78f8953/86f0c5b7edbcb628-e4/s100x200/c25e11e992f067669af2f2dfcbc1252154a2c0a2.gifv" width="30" height="30"> Get out of here, Stalker! <img src="https://64.media.tumblr.com/30036a0c4adc7c54c4d9272b2bf05e7f/86f0c5b7edbcb628-85/s100x200/88b14a8d4d185f65c2a442536b9bc19222065e23.gifv" height="30" width="30">
+
+</div>
   
 <p align="center">
 <img width="550" src="https://64.media.tumblr.com/280d47ddee4a9e4ff5afea04a8aef2a7/8ff434638d8d5ff6-4e/s400x600/69233c2f8f2cb40d7f6786e9c9b89db8a04ed909.gifv"
@@ -22,26 +23,21 @@ page under construction everything broke : ( will be restored to former glory, m
  <h1 align="center">
   
   ![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/5ddf460d-05c2-4ba7-b456-022e54178b15)
-  <br>
-  ![ezgif com-animated-gif-maker (3)](https://github.com/user-attachments/assets/bbf86e6a-ed14-489b-af78-c2c61c058f88)
-
-  
 
  </h1>
-
+ 
 <p align="center">
-   <strong>☢ ˗ˏˋ Offtab usually -- W2I... ˎˊ˗</strong>
+  <img src="https://pixelsafari.neocities.org/favicon/horror/gasmask2.gif"> ˗ˏˋ Offtab usually -- W2I... ˎˊ˗</strong>
  </p>
  <p align="center">
- <strong>☢˗ˏˋ More info on listography!ˎˊ˗
+ <img src="https://pixelsafari.neocities.org/favicon/horror/weapon3.gif"> ˗ˏˋ More info on listography!ˎˊ˗
  </p>
    <p align="center">
-      <strong>☢˗ˏˋ Graphics Below... <img src="https://sansmaeda.neocities.org/images/graphics/favicons/9617d43f.gif"> </a>ˎˊ˗
+    <img src="https://pixelsafari.neocities.org/favicon/horror/gasmask.gif"> ˗ˏˋ Graphics Below... <img src="https://sansmaeda.neocities.org/images/graphics/favicons/9617d43f.gif"> </a>ˎˊ˗
 </p>
-![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/a92bd677-ff87-456b-9a98-8415520e0897)
 
 <div align="center">
-  
+ 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=247xx4wdsyzixq37xrn809zor&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=998d3c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/a0d9e47e-a8b8-4799-8295-5e56921bec76)
 ) 
   
@@ -50,8 +46,8 @@ page under construction everything broke : ( will be restored to former glory, m
 <br>
 
  <p align="center">
- ⤷ <a href="https://github.com![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/15367217-efe9-4fe0-bcab-e63a9e23cd24)
-/NightVisionGoggles">RUSS</a> ⤷ <a href="https://github.com/dethglok2000">JOEL</a> ⤷ <a href="https://github.com/dogsoldiers">CHRIS</a> 
+ ⤷ <img src="https://64.media.tumblr.com/c79b9fc4e6d98587e166013a094cd9d7/2e7fe2baf89313e9-cd/s75x75_c1/502ad4e2c5c8737bd0f37915834e69592dfbbb60.gifv" width="16" height="16"> <a href="https://github.com![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/15367217-efe9-4fe0-bcab-e63a9e23cd24)
+/NightVisionGoggles">RUSS</a> ⤷ <img src="https://64.media.tumblr.com/8c9abd2899a58ed9f1d99622ebeed574/e35483bc14507f1e-02/s75x75_c1/3dd848a9cbc37fb63b0cc96e40b92f1dd54be693.gifv" width="16" height="16"> <a href="https://github.com/dethglok2000">JOEL</a> ⤷ <img src="https://64.media.tumblr.com/377135af3a60892a60daee3c16bde7d2/ba7b9a992d5c6136-a5/s75x75_c1/d022d1609a0c142b8b7bd0fd01950dc3d26599f4.gifv" width="16" height="16"> <a href="https://github.com/dogsoldiers">CHRIS</a> 
  </p>
 
  <br>
