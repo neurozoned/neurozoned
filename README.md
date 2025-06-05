@@ -5,7 +5,7 @@
 
 <div align="center">
  
-<img src="https://64.media.tumblr.com/30dcb8590864f1f8b5ee82b2a78f8953/86f0c5b7edbcb628-e4/s100x200/c25e11e992f067669af2f2dfcbc1252154a2c0a2.gifv" width="30" height="30"> Get out of here, Stalker! <img src="https://64.media.tumblr.com/30036a0c4adc7c54c4d9272b2bf05e7f/86f0c5b7edbcb628-85/s100x200/88b14a8d4d185f65c2a442536b9bc19222065e23.gifv" height="30" width="30">
+<img src="https://64.media.tumblr.com/514ede3b801422bccc34da88101f15cc/61d0bde25e279c58-55/s75x75_c1/87698c249c5ab2847a00fafc463a7c8dbefb0df3.webp"> ![63b59beeeb20a537bd24b88b5ea32834_resized_resized (2)](https://github.com/user-attachments/assets/5628b492-d93b-490e-9611-195ae4c073aa) <img src="https://64.media.tumblr.com/1bc55342964b5ec8b2fe8ea5d5a6ea76/fee45ed2ddd18dac-ed/s75x75_c1/db652d0dabd15a40217627202f1fb7ea92666e71.pnj">
 
 </div>
   
@@ -47,7 +47,7 @@
 
  <p align="center">
  ⤷ <img src="https://64.media.tumblr.com/c79b9fc4e6d98587e166013a094cd9d7/2e7fe2baf89313e9-cd/s75x75_c1/502ad4e2c5c8737bd0f37915834e69592dfbbb60.gifv" width="16" height="16"> <a href="https://github.com![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/15367217-efe9-4fe0-bcab-e63a9e23cd24)
-/NightVisionGoggles">RUSS</a> ⤷ <img src="https://64.media.tumblr.com/8c9abd2899a58ed9f1d99622ebeed574/e35483bc14507f1e-02/s75x75_c1/3dd848a9cbc37fb63b0cc96e40b92f1dd54be693.gifv" width="16" height="16"> <a href="https://github.com/dethglok2000">JOEL</a> ⤷ <img src="https://64.media.tumblr.com/377135af3a60892a60daee3c16bde7d2/ba7b9a992d5c6136-a5/s75x75_c1/d022d1609a0c142b8b7bd0fd01950dc3d26599f4.gifv" width="16" height="16"> <a href="https://github.com/dogsoldiers">CHRIS</a> 
+/NightVisionGoggles">RUSS</a> ⤷ <img src="https://64.media.tumblr.com/8c9abd2899a58ed9f1d99622ebeed574/e35483bc14507f1e-02/s75x75_c1/3dd848a9cbc37fb63b0cc96e40b92f1dd54be693.gifv" width="16" height="16"> <a href="https://github.com/dethglok2000">JOEL</a> ⤷ <img src="https://64.media.tumblr.com/cbd57dabec491c1de71126d3455b995b/c997dedf5f2f81b0-22/s75x75_c1/e113dc636784a67af83f84ec3118b59c0efb5b25.gifv" width="16" height="16"> <a href="https://github.com/dogsoldiers">CHRIS</a> 
  </p>
 
  <br>
