@@ -20,10 +20,13 @@ page under construction everything broke : ( will be restored to former glory, m
  </p>
 
  <h1 align="center">
+  
+  ![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/5ddf460d-05c2-4ba7-b456-022e54178b15)
   <br>
-  ⚛  <img src=''>
- <br>
-  ⚛ HE / IT - 18}$ <br>
+  ![ezgif com-animated-gif-maker (3)](https://github.com/user-attachments/assets/bbf86e6a-ed14-489b-af78-c2c61c058f88)
+
+  
+
  </h1>
 
 <p align="center">
@@ -47,7 +50,8 @@ page under construction everything broke : ( will be restored to former glory, m
 <br>
 
  <p align="center">
- ⤷ <a href="https://github.com/NightVisionGoggles">RUSS</a> ⤷ <a href="https://github.com/dethglok2000">JOEL</a> ⤷ <a href="https://github.com/dogsoldiers">CHRIS</a> 
+ ⤷ <a href="https://github.com![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/15367217-efe9-4fe0-bcab-e63a9e23cd24)
+/NightVisionGoggles">RUSS</a> ⤷ <a href="https://github.com/dethglok2000">JOEL</a> ⤷ <a href="https://github.com/dogsoldiers">CHRIS</a> 
  </p>
 
  <br>
