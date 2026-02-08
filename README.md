@@ -1,5 +1,5 @@
 <center>
-<p align="center">
+ <p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTViN2hvY2Z6ZHp5dG83YXdqb2xpbnB0M3F3emE0OGc4Yml1dDF6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MHltmUmAPnkiJ0hTz9/giphy.gif" height="250">
 </p>
 
@@ -23,6 +23,10 @@
  <h1 align="center">
   
   ![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/5ddf460d-05c2-4ba7-b456-022e54178b15)
+ 
+  </p>
+ 
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneurozoned&label=visitors&icon=bug&color=%23f1af3e&message=&style=flat&tz=Etc%2FGMT%2B0">
 
  </h1>
  
