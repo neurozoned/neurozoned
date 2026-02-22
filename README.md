@@ -31,7 +31,7 @@
  </h1>
  
 <p align="center">
-  <img src="https://pixelsafari.neocities.org/favicon/horror/gasmask2.gif"> ˗ˏˋ Offtab usually -- W2I... ˎˊ˗</strong>
+  <img src="https://pixelsafari.neocities.org/favicon/horror/gasmask2.gif"> ˗ˏˋ Offtab usually (almost definitely on R6Siege) -- W2I... ˎˊ˗</strong>
  </p>
  <p align="center">
  <img src="https://pixelsafari.neocities.org/favicon/horror/weapon3.gif"> ˗ˏˋ More info on listography!ˎˊ˗
