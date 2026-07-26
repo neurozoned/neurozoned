@@ -42,8 +42,7 @@
 
 <div align="center">
  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=247xx4wdsyzixq37xrn809zor&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=998d3c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile![d04c6c22be987d3f457fec6fa53e936c](https://github.com/user-attachments/assets/a0d9e47e-a8b8-4799-8295-5e56921bec76)
-  ) 
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=sickboyt2&count=1&bg_colour2596be)
   
   </div>
 
