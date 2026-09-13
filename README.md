@@ -48,9 +48,6 @@
 
 <br>
 
- <p align="center">
- ⤷ <img src="https://64.media.tumblr.com/8c9abd2899a58ed9f1d99622ebeed574/e35483bc14507f1e-02/s75x75_c1/3dd848a9cbc37fb63b0cc96e40b92f1dd54be693.gifv" width="16" height="16"> <a href="https://github.com/dethglok2000">TOKI</a> ⤷ <img src="https://64.media.tumblr.com/cbd57dabec491c1de71126d3455b995b/c997dedf5f2f81b0-22/s75x75_c1/e113dc636784a67af83f84ec3118b59c0efb5b25.gifv" width="16" height="16"> <a href="https://github.com/dogsoldiers">CHRIS</a> 
- </p>
 
  <br>
  
