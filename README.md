@@ -37,7 +37,7 @@
  <img src="https://pixelsafari.neocities.org/favicon/horror/weapon3.gif"> ˗ˏˋ More info on listography!ˎˊ˗
  </p>
    <p align="center">
-    <img src="https://pixelsafari.neocities.org/favicon/horror/gasmask.gif"> ˗ˏˋ Graphics Below... <img src="https://sansmaeda.neocities.org/images/graphics/favicons/9617d43f.gif"> </a>ˎˊ˗
+    <img src="https://pixelsafari.neocities.org/favicon/horror/gasmask.gif"> ˗ˏˋ Pastafarian ripperologist and ugly  <img src="https://sansmaeda.neocities.org/images/graphics/favicons/9617d43f.gif"> </a>ˎˊ˗
 </p>
 
 <div align="center">
